@@ -7,7 +7,6 @@
     </div>
     <stats/>
     <message :currentNumber="currentNumber"/>
-    <switchpage/>
   </div>
 </template>
 
